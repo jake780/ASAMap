@@ -64,7 +64,7 @@ class Base {
     }
 
     // Rotate
-    // if (click && )
+    // Add Rotation with R key!
       
     //Boundary
     this.bounds();
